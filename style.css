@@ -3,6 +3,7 @@
   opacity: 70%;
   line-height: 1;
   background-size: 100%;
+  background-repeat: repeat;
   padding: 20px 20px;
   margin: auto;
   box-shadow: 5px 10px 10px 5px #191a1a;
