@@ -1,0 +1,67 @@
+.container {
+  background-color: #00f7f7;
+  opacity: 70%;
+  line-height: 1;
+  background-size: 100%;
+  padding: 20px 20px;
+  margin: auto;
+  box-shadow: 5px 10px 10px 5px #191a1a;
+}
+#temperature {
+  font-size: 50px;
+}
+
+#icon {
+  font-size: 40px;
+}
+
+body {
+  background-size: 1000px;
+  background-image: url("cloudone\ -\ Copy.jpg");
+  width: 800px;
+  background-repeat: no-repeat;
+  display: block;
+  padding: 60px;
+  margin: 0 auto;
+}
+#searchButton {
+  color: #000000;
+}
+
+#current-btn {
+  background-color: rgb(8, 13, 14);
+  color: rgb(8, 245, 39);
+}
+.units {
+  position: relative;
+  top: -29px;
+}
+
+.container p {
+  padding: 5px 5px;
+  margin: auto;
+}
+
+.form-control {
+  background-color: #ffffff;
+  color: #000000;
+}
+.btn {
+  background-color: #b18261;
+  opacity: 100%;
+  color: #000000;
+  font-weight: bolder;
+  border: 1px solid blueviolet;
+  border-radius: 10px;
+}
+#city {
+  font-family: "Signika", sans-serif;
+  font-size: 45px;
+  margin: auto;
+  padding: 0px;
+}
+#date {
+  font-size: 20px;
+  padding: 0px;
+  margin: auto;
+}
